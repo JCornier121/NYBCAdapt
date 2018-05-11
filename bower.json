@@ -1,0 +1,23 @@
+{
+    "name": "adapt-NYBC-vanilla",
+    "repository": "git://github.com/JCornier121/NYBCAdapt.git",
+    "framework": "~2.0.0",
+    "authors": [
+        "Rick Raguso rraguso@nybc.org"
+    ],
+    "description": "New theme for NYBC courses",
+    "main": "js/vanilla.js",
+    "keywords": [
+        "nybc"
+    ],
+    "license": "nybc",
+    "homepage": "nybc.org",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
