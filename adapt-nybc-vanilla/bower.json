@@ -1,0 +1,21 @@
+{
+  "name": "adapt-NYBC-vanilla",
+  "authors": [
+    "Rick Raguso rraguso@nybc.org"
+  ],
+  "description": "New theme for NYBC courses",
+  "main": "js/vanilla.js",
+  "keywords": [
+    "nybc"
+  ],
+  "license": "nybc",
+  "homepage": "nybc.org",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
